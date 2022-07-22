@@ -5,10 +5,10 @@ const feed = document.getElementById('feed-container');
 const IMAGE_CLASS = [
   {
     name: 'nightfalls',
-    count: 229
+    count: 48
   }, {
     name: 'wallpaper',
-    count: 242
+    count: 48
   }, {
     name: 'super',
     count: 24
